@@ -11,3 +11,5 @@ So you have to change your directory to the specific question using `cd` command
 npm install
 npm start
 ```
+
+#### link of every question is in the **link.txt** file on its directory
