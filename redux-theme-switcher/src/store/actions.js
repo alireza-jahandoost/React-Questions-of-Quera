@@ -1,3 +1,6 @@
 // # Action name should be **setTheme**
 
-export const setTheme = () => {};
+export const setTheme = (theme) => ({
+  type: "SET_THEME",
+  payload: { theme },
+});
